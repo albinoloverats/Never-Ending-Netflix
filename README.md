@@ -15,7 +15,7 @@ Never Ending Netflix allows you to customize it's functionality with an options 
 
 ## Live link
 
-[Link to Firefox Webstore](https://addons.mozilla.org/en-US/firefox/addon/endless-netflix/)
+[Link to Firefox Webstore](https://addons.mozilla.org/en-US/firefox/addon/never-ending-netflix/)
 
 ## Libraries & Credits
 
