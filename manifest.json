@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "__MSG_manifest_name__",
   "description": "__MSG_manifest_description__",
-  "version": "2.3.1",
+  "version": "1.0",
   "permissions": [
     "*://*.netflix.com/*",
     "*://*.netflix.co.uk/*",
@@ -75,7 +75,7 @@
     "default_title": "__MSG_manifest_name__"
   },
   "default_locale": "en",
-  "homepage_url": "https://jonlu.ca",
+  "homepage_url": "https://github.com/EdwardWatkins/Endless-Netflix",
   "web_accessible_resources": [
     "js/*",
     "data/*"
