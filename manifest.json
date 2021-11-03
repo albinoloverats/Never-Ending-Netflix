@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "__MSG_manifest_name__",
   "description": "__MSG_manifest_description__",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "permissions": [
     "*://*.netflix.com/*",
     "*://*.netflix.co.uk/*",
@@ -51,7 +51,7 @@
         "*://*.netflix.es/*"
       ],
       "js": [
-        "js/libs/jquery.js",
+        "js/libs/jquery-3.6.0.min.js",
         "js/common.js",
         "NEN.js"
       ]
@@ -75,9 +75,14 @@
     "default_title": "__MSG_manifest_name__"
   },
   "default_locale": "en",
-  "homepage_url": "https://github.com/EdwardWatkins/Never-Ending-Netflix",
+  "homepage_url": "https://github.com/albinoloverats/Never-Ending-Netflix",
   "web_accessible_resources": [
     "js/*",
     "data/*"
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "never-ending-netflix@ashley.anderson.io"
+    }
+  }
 }
