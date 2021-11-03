@@ -143,6 +143,7 @@ function enableSkipStillHere(selectors) {
   selectors.push('.postplay-button');
   selectors.push('.continue-playing');
   selectors.push('.player-postplay-still-hover-container');
+  selectors.push('[data-uia="interrupt-autoplay-continue"]');
 }
 
 function watchCredits(selectors) {
